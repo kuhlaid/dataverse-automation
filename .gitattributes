@@ -1,0 +1,2 @@
+# try to ensure Linux line feeds in files
+* text eol=lf
